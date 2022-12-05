@@ -1,0 +1,332 @@
+
+.navi{
+display: flex;
+flex-direction: row;
+    justify-content: space-around;
+    font-family: Verdana;
+    box-sizing: border-box;
+    color: #203152;
+}
+.navi h{
+    padding-top: 45px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+}
+.card{
+    background-color: #6d3afe;
+    height:400px;
+    width: 362px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+.s1{
+    height: 150px;
+    width: 250px;
+    font-size: 30px;
+    color: #203152;
+    box-sizing: border-box;
+}
+
+.v1{
+    margin-left: 100px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: Verdana;
+    box-sizing: border-box;
+}
+.v2{
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+    margin-top: 80px
+}
+.s2{
+    height: 150px;
+    width: 250px;
+    font-size: 30px;
+    color: #203152;
+    margin-right: 280px;
+}
+
+.v3{
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.s3{
+    margin: 100px;
+    height: 150px;
+    width: 250px;
+    font-size: 30px;
+    color: #203152;
+}
+
+.v4{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+    width: 950px;
+    margin-left: 200px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.s4{
+    margin-right: 100px;
+    height: 150px;
+    width: 250px;
+    font-size: 32px;
+    color: #203152;
+    padding-right: 160px;
+}
+
+.r22{
+    padding-right: 200px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 150px;
+    margin-top: 50px;
+}
+.v6{
+    margin-right: 80px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    width: 850px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 280px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.s6{
+    margin-left: 150px;
+    font-size: 30px;
+    color: #203152;
+    margin: 0px;
+    width: 50%;
+}
+
+.card2{
+    background-color:black;
+    width: 960px;
+    height: 550px;
+    font-size: 32px;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+.v5{
+    
+    padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 1000px;
+    margin-left: 200px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.s5{
+    padding-right: 274px;
+    font-size: 32px;
+    color: #203152;
+}
+.card3{
+    background-color:white;
+    height: 470px;
+    width: 200px;
+}
+
+.p1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.r2{
+    text-align: center;
+    
+}
+.r1{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.r1 img{
+    padding-left: 20px;
+    margin-right: 50px;
+}
+.txt_r1{
+    color: #6d3afe;
+    padding-left: 70px;
+}
+.txt_r2{
+    color: #fff;
+    text-align: left;
+    font-size: 70px;
+    padding-top: 160px;
+    padding-left: 40px;
+
+}
+.txt_r3{
+    color: #fff;
+    background-color: #6d3afe;
+    border-radius: 10px;
+    font-size: 25px;
+    width: 400px;
+    height: 550px;
+    text-align: center;
+}
+.v7{
+        margin-right: 80px;
+        padding-top: 35px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        box-sizing: border-box;
+        padding-left: 130px;
+        margin-top: 50px;
+}
+.s7{
+    color: #633dea;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 70.2p
+}
+.p1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.p2{
+    text-align: center;
+    color: #203152;
+    font-size: 2.5rem;
+}
+.img1 img{
+    width:500px;
+    height: 500px;
+    padding: 15px;
+
+}
+.img1{
+    height: 440px;
+    width: 500px;
+    margin-left: 25px;
+    padding-right: 100px;
+}
+.flex{
+    display: flex;
+}
+.bg_green{
+    background-color: #15cf74;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0px 250px 0px 250px;
+    height: auto;
+    align-items: center;
+    margin-top: 50px;
+}
+.p3{
+    text-align: left;
+}
+.v8{
+    text-align: left;
+    align-items: center;
+    height: auto;
+    width: auto;
+    font-size: 40px;
+    color:  #fff;
+    margin-top: 50px;
+}
+.p3 img{
+    margin: 10px;
+}
+.v9{
+    text-align: center;
+    background-color:  #f5f5f7;
+    padding: 10px;
+    margin-top: 50px;
+}
+.v10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size:20px;
+    color: hsla(0,0%,100%,.9);
+    padding-top: 60px;
+    padding-bottom: 5px;
+    padding-left: 90px;
+}
+.p4{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    color: hsla(0,0%,100%,.9);
+}
+.s10{
+    background-color: #4a3083;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    padding-top: 50px;
+}
+.media{
+    padding-top:110px;
+}
+.flex{
+    display: flex;
+}
+.comments{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 10px;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+     border-radius: 15px;
+     font-size: 20px;
+     padding-bottom: 50px;
+     padding-top: 30px;
+     margin-left: 60px;
+     padding-left: 30px;
+     margin-bottom: 30px;
+}
+.tweets{
+    justify-content: center;
+   
+}
+.comments1{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 10px;
+    padding: 10px;
+    height: 300px;
+    width: 800px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding-bottom: 50px;
+     padding-top: 30px;
+     margin-left: 320px;
+     padding-left: 30px;
+}
